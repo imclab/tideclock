@@ -2,4 +2,4 @@ env
 *~
 *.pyc
 *.sqlite
-tideclockproject/tideclockproject/settings.py
+tideclockproject/tideclockproject/local_settings.py
